@@ -170,7 +170,7 @@
  {
   "Id": 24,
   "Producto": "juego llaves torx mediano",
-  "Precio": 3190,
+  "Precio": 3619,
   "Categoría": "FERRETERIA",
   "Img": "juegoLlavesTorx.jpeg",
   "Descripción": "9 PIEZAS MILIMETRICAS"
@@ -178,8 +178,8 @@
  {
   "Id": 25,
   "Producto": "fieltro goma espuma 20cm",
-  "Precio": 807.5,
-  "PrecioConDescuento": 775.2,
+  "Precio": 831.25,
+  "PrecioConDescuento": 798,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -187,8 +187,8 @@
  {
   "Id": 26,
   "Producto": "fieltro goma espuma 25cm",
-  "Precio": 892.5,
-  "PrecioConDescuento": 856.8,
+  "Precio": 918.75,
+  "PrecioConDescuento": 882,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -279,28 +279,28 @@
  {
   "Id": 38,
   "Producto": "caño corrugado de 3\/4 naranja",
-  "Precio": 3327,
+  "Precio": 3630,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloNaranja.jpg"
  },
  {
   "Id": 39,
   "Producto": "caño corrugado de 7\/8 naranja",
-  "Precio": 4659,
+  "Precio": 4819,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloNaranja.jpg"
  },
  {
   "Id": 40,
   "Producto": "caño corrugado de 3\/4 blanco",
-  "Precio": 3665,
+  "Precio": 3798,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloBlanco.jpg"
  },
  {
   "Id": 41,
   "Producto": "caño corrugado de 7\/8 blanco",
-  "Precio": 5119,
+  "Precio": 5171,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloBlanco.jpg"
  },
@@ -372,7 +372,7 @@
  {
   "Id": 51,
   "Producto": "carretel para bordeadora + tanza UNIVERSAL",
-  "Precio": 629,
+  "Precio": 1113,
   "Categoría": "JARDIN",
   "Notas": "consultar precio por bulto de 150 unidades",
   "Img": "portaTanza.jpg"
@@ -854,7 +854,7 @@
  {
   "Id": 110,
   "Producto": "rueda para carretilla plastica",
-  "Precio": 5625,
+  "Precio": 6375,
   "Categoría": "FERRETERIA",
   "Img": "ruedas.jpg",
   "Descripción": "soportan 150kg"
@@ -862,7 +862,7 @@
  {
   "Id": 111,
   "Producto": "rueda para hormigonera plastica",
-  "Precio": 4440,
+  "Precio": 5750,
   "Categoría": "FERRETERIA",
   "Img": "ruedas.jpg",
   "Descripción": "soportan 150kg"
@@ -892,7 +892,7 @@
  {
   "Id": 115,
   "Producto": "fratacho de piedra fino",
-  "Precio": 2062.5,
+  "Precio": 2125,
   "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -900,7 +900,7 @@
  {
   "Id": 116,
   "Producto": "fratacho de piedra mediano",
-  "Precio": 2062.5,
+  "Precio": 2125,
   "Categoría": "FERRETERIA ",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -908,7 +908,7 @@
  {
   "Id": 117,
   "Producto": "fratacho de piedra grueso",
-  "Precio": 2062.5,
+  "Precio": 2125,
   "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -1150,7 +1150,7 @@
  {
   "Id": 149,
   "Producto": "CALEFON PLASTICO 20LTS",
-  "Precio": 6854,
+  "Precio": 10140,
   "Categoría": "SANITARIO",
   "Img": "calefonPlastico.png"
  },
@@ -2636,28 +2636,28 @@
  {
   "Id": 332,
   "Producto": "CURVA 20MM ELEC",
-  "Precio": 360.94,
+  "Precio": 378.99,
   "Categoría": "ELECTRICIDAD",
   "Img": "curva.jpeg"
  },
  {
   "Id": 333,
   "Producto": "CONECTOR 20MM ELEC",
-  "Precio": 161.64,
+  "Precio": 169.71,
   "Categoría": "ELECTRICIDAD",
   "Img": "conector20mm.jpg"
  },
  {
   "Id": 334,
   "Producto": "GRAMPA 20MM  ELEC",
-  "Precio": 163.05,
+  "Precio": 171.21,
   "Categoría": "ELECTRICIDAD",
   "Img": "grampa.jpeg"
  },
  {
   "Id": 335,
   "Producto": "UNION 20MM ELEC ",
-  "Precio": 120.44,
+  "Precio": 126.48,
   "Categoría": "ELECTRICIDAD",
   "Img": "union20mm.jpg"
  },
