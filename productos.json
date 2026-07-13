@@ -307,7 +307,7 @@
  {
   "Id": 42,
   "Producto": "portalampara con chicote",
-  "Precio": 405.16,
+  "Precio": 451.72,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaLamparaChicote.jpg",
   "Descripción": "conexión antillama y protector plástico antiquiebre"
@@ -870,7 +870,7 @@
  {
   "Id": 112,
   "Producto": "zaranda 50x35cm",
-  "Precio": 4480,
+  "Precio": 4990,
   "Categoría": "FERRETERIA",
   "Img": "zaranda.jpg"
  },
@@ -1227,21 +1227,21 @@
  {
   "Id": 160,
   "Producto": "CAJA DE HIERRO 10X5",
-  "Precio": 335.24,
+  "Precio": 369.55,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaHierro.jpg"
  },
  {
   "Id": 161,
   "Producto": "CAJA DE HIERRO OCTOGONAL 10X5",
-  "Precio": 335.24,
+  "Precio": 369.55,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaOctogonal.jpg"
  },
  {
   "Id": 162,
   "Producto": "REGULADOR 1MTS",
-  "Precio": 6160,
+  "Precio": 6468,
   "Categoría": "GAS",
   "Img": "regulador.jpg"
  },
@@ -2209,7 +2209,7 @@
  {
   "Id": 276,
   "Producto": "SODA CAUSTICA 1KG",
-  "Precio": 814,
+  "Precio": 988,
   "PrecioUnidadxBulto": 781,
   "PrecioTotalBulto": 9372,
   "UnidadesPorBulto": 12,
@@ -2327,7 +2327,7 @@
  {
   "Id": 290,
   "Producto": "DESTAPA PILETAS 3MTS",
-  "Precio": 1738.1,
+  "Precio": 1860.61,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
@@ -2335,7 +2335,7 @@
  {
   "Id": 291,
   "Producto": "DESTAPA PILETAS 5MTS",
-  "Precio": 2206.1,
+  "Precio": 1360.8,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
